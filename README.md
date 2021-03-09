@@ -1,3 +1,12 @@
+Intuner is an interactive installation where the brain signals are translated into visuals patterns  and colours in real time using EEG headband.
+
+The Aim of the installation is to show the various states of relaxation/concentration/Meditation by means of visual representation of the signals.
+
+This installation was done using Touchdesigner and 1st gen Muse EEG headband and MindMoniter App via OSC connection.
+
+This is achieved as a first proof of concept for Senseplay ecosystem and its core technological stack.
+
+
 # Sense.Play
 World's only affective gaming dev board that helps build applications that delivers visual feedback of a person's emotional indices in affective gaming, mental wellness apps, games, guided meditation, and all forms of recreational biofeedback.   
 
